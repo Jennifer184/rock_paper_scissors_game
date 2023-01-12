@@ -4,7 +4,7 @@
  
 | Rock | Paper | Scissors |
 |:----:|:-----:|:----------:|
-| <a href="https://jennifer184.pythonanywhere.com/1"> <img src="/media/rock.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"><img src="/media/paper.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"> <img src="/media/scissors.png"  width=40% height=40%> </a> |
+| <a href="https://jennifer184.pythonanywhere.com/1"> <img src="/media/rock.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/2"><img src="/media/paper.png"  width=40% height=40%></a> | <a href="https://jennifer184.pythonanywhere.com/3"> <img src="/media/scissors.png"  width=40% height=40%> </a> |
  
 </center>
 Example of the game results:
